@@ -1,5 +1,10 @@
 package logicadeprogramacao.exerciciosModuloI;
 
+//1º: lógica de programação. Resolução de exercícios de algoritmos.
+//2º: estrutura de dados. 
+//3º: projetos.
+//4º: softskills. 
+//5º: networking.
 public class E05 {
 	//gerando um número randomico
 	public static void main(String[] args) {
