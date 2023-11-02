@@ -5,6 +5,8 @@
  * 
  */
 module aplicacaografica {
-	requires java.desktop;
+	
 	requires jcalendar;
+	requires java.desktop;
+	requires java.sql;
 }

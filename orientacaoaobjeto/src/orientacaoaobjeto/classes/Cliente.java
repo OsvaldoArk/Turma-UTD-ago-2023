@@ -6,6 +6,8 @@ import java.util.Objects;
 
 import orientacaoaobjeto.classes.enums.StatusEnum;
 
+
+
 public class Cliente extends Pessoa{
 
 	private String codigo;
